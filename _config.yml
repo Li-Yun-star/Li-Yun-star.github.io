@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yun Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Be passionate about the things you love."
+  location         : "China"
+  employer         : "SCNU"
+  uri              : https://li-yun-star.github.io/
+  email            : "luck88667@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
